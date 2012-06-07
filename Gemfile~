@@ -1,10 +1,6 @@
 source 'https://rubygems.org'
 
-<<<<<<< HEAD
-gem 'rails', '3.2.5'
-=======
 gem 'rails', '3.2.3'
->>>>>>> 41a4dd72543b01a24bbb96497852eaf3b43b106f
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
@@ -27,8 +23,4 @@ end
 
 group :production do
   gem 'pg', '0.12.2'
-<<<<<<< HEAD
 end
-=======
-end
->>>>>>> 41a4dd72543b01a24bbb96497852eaf3b43b106f
