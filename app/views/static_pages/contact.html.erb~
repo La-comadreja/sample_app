@@ -1,7 +1,5 @@
 <% provide(:title, 'Contact Us') %>
-<h1>Sample App</h1>
+<h1>Contact Us</h1>
 <p>
-  This is the home page for the
-  <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
-  sample application.
+  We can be reached at the <a href="http://researchmat.ch/">Uruk-Hai Headquarters</a> in <a href="http://www.columbia.edu">Isengard</a>.
 </p>
