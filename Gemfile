@@ -1,14 +1,17 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.0.0'
+ruby '2.0.0'
 
 gem 'activesupport', '4.0.0'
 gem 'bootstrap-sass', '2.0.0'
 gem 'bcrypt-ruby', '3.0.1'
+gem 'protected_attributes'
+gem 'rack'
 gem 'railties', '4.0.0'
 
 group :development, :test do
-  gem 'sqlite3', '1.3.5'
+  gem 'sqlite3', '1.3.7'
   gem 'rspec-rails', '2.10.0'
 end
 
